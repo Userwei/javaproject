@@ -5,7 +5,7 @@ package com.company.demo01;
 //string
 //在调用输出语句的时候，println其实就是进行了多种数据类型的重载形式。
 
-public class DemoExercise04MethodOverloadPrint {
+public class DemoExercise05MethodOverloadPrint {
     public static void main(String[] args) {
         myPrint(100);// int
         myPrint("Hello");//String
