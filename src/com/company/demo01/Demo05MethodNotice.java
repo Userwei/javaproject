@@ -28,7 +28,7 @@ public class Demo05MethodNotice {
         //return;//最后一行的return可以省略
     }
 
-    public static int getMax(int a,int b){
+    public static int getMax(int a, int b) {
         /*int max;
         if(a >b){
             max = a;
@@ -37,9 +37,9 @@ public class Demo05MethodNotice {
         }
         return max;*/
 
-        if(a>b){
-            return  a;
-        }else{
+        if (a > b) {
+            return a;
+        } else {
             return b;
         }
     }
