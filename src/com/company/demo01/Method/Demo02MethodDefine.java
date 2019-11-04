@@ -1,4 +1,4 @@
-package com.company.demo01;
+package com.company.demo01.Method;
 
 /*
 方法其实就是若干语句的功能集合。

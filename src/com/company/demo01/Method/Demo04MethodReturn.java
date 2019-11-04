@@ -1,4 +1,4 @@
-package com.company.demo01;
+package com.company.demo01.Method;
 
 /*
 题目要求：定义一个方法，用来【求出】两个数字之和。（你帮我算，算完之后把结果告诉我。）

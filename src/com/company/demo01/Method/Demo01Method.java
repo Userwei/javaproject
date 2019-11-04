@@ -1,4 +1,4 @@
-package com.company.demo01;
+package com.company.demo01.Method;
 
 /*
 复习一下方法入门知识

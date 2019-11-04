@@ -1,4 +1,4 @@
-package com.company.demo01;
+package com.company.demo01.Method;
 
 import java.sql.SQLOutput;
 

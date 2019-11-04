@@ -1,4 +1,4 @@
-package com.company.demo01;
+package com.company.demo01.Method;
 
 
 //byte short int long float char boolean

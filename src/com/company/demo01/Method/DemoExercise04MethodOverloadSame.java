@@ -1,4 +1,4 @@
-package com.company.demo01;
+package com.company.demo01.Method;
 
 /*
 题目要求：
@@ -19,17 +19,13 @@ public class DemoExercise04MethodOverloadSame {
     public static boolean isSame(byte a, byte b) {
         System.out.println("两个byte参数的方法！");
         boolean same;
-        if (a == b) {
-            same = true;
-        } else {
-            same = false;
-        }
+        same = a == b;
         return same;
     }
 
     public static boolean isSame(short a, short b) {
         System.out.println("两个short参数的方法！");
-        boolean same = a == b ? true : false;
+        boolean same = a == b;
         return same;
     }
 
@@ -40,10 +36,6 @@ public class DemoExercise04MethodOverloadSame {
 
     public static boolean isSame(long a, long b) {
         System.out.println("两个long参数的方法！");
-        if (a == b) {
-            return true;
-        } else {
-            return false;
-        }
+        return a == b;
     }
 }

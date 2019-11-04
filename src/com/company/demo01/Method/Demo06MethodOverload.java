@@ -1,4 +1,4 @@
-package com.company.demo01;
+package com.company.demo01.Method;
 
 /*
 对于功能类似的方法来说，因为参数列表不一样，却需要记住那么多不同的方法名称，太麻烦
