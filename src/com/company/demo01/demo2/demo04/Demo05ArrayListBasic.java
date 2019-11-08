@@ -33,6 +33,6 @@ public class Demo05ArrayListBasic {
         System.out.println(listC);  //[100, 200]
 
         int num = listC.get(1);
-        System.out.println("第一号元素是");
+        System.out.println("第一号元素是:" + num);
     }
 }
